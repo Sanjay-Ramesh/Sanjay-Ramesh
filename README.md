@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br>💬 Ask me about Basics of Python
+🌱 I’m currently learning Java<br>💬 
 
 
 ## 🌐 Socials:
