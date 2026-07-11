@@ -1,6 +1,6 @@
 # Hi, I'm Sanjay Ramesh 👋
 
-> Java Full Stack Developer — Building real products, not just tutorials
+> Java Full Stack Developer — Building real products, not just tutorials.
 
 ---
 
