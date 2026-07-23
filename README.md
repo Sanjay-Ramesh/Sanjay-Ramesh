@@ -18,7 +18,7 @@
 - 📊 HR Admin — company-wide analytics, department breakdown
 - 🔐 Role-based JWT security — each role sees only their data
 
-**Stack:** Java 17 + Spring Boot + MongoDB Atlas + React, + Tailwind + Railway + Vercel
+**Stack:** Java 17 + Spring Boot + MongoDB Atlas + React, + Tailwind + Docker + Railway + Vercel
 
 ---
 
@@ -50,6 +50,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
 
 ---
 
